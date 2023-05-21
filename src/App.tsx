@@ -3,12 +3,7 @@ import './App.css'
 import { 
   ChakraProvider, 
   Box,
-  Center,
-  Circle, 
-  Square, 
-  HStack,
   VStack,
-  StackDivider,
   Heading,
   Text,
 } from '@chakra-ui/react'
@@ -54,7 +49,7 @@ function App() {
         </Text>
         <Text>The world needs to stop 'single use plastic'. That is plastic that is only used once, like plastic bags, cups, food containers, etc... </Text>
         <Text>The world needs to limit our use of all plastics. Clothes, TV's, almost anything you think of probably has plastic, but could have used something else like wood or metal.</Text>
-        
+
       </VStack>
     </ChakraProvider>
   )
