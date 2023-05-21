@@ -39,7 +39,7 @@ function App() {
         </Text>
         <Text>
           if you want more info, I suggest
-          <a href="www.webmd.com/a-to-z-guides/news/20221028/microplastics-health-risks-what-do-we-really-know#:~:text=Microplastics%20as%20Carriers&text=%E2%80%9CThese%20chemicals%20are%20known%20environmental,inflammation%2C%20or%20other%20unknown%20effects. Vestergaard, Jannik. LifeStraw. lifestraw.com/blogs/news/what-you-need-to-know-about-microplastics"> this webmd link</a>
+          <a target='_blank' href="https://www.webmd.com/a-to-z-guides/news/20221028/microplastics-health-risks-what-do-we-really-know"> this webmd link</a>
         </Text>
         <Box h='40px' bg='pink.100'>
           What can I do to help?
